@@ -2,7 +2,7 @@
 
 # informatiCup2017
 
-## Resources
+## Resources / Ressourcen
 
 * [Official web site / offizielle Web-Seite](http://www.informaticup.de)
 * [Challenge Description English](InformatiCup2017-English.pdf)
@@ -11,4 +11,10 @@
 * [Example Output / Beispielausgabe](example-output)
 * [Appendix A / Anhang A](appendix-a-examples-for-repository-categories)
 * [Appendix B / Anhang B](appendix-b-repositories)
+
+## FAQ / Fragen
+
+If you should have any questions or like to see why questions have already been answered have a look at [the issues](https://github.com/InformatiCup/InformatiCup2017/issues) of this repository.
+
+Sollten Sie Fragen zum Wettbewerb haben, oder die bereits beantworteten Fragen einsehen, nutzen Sie bitte die [Issue-Funktion](https://github.com/InformatiCup/InformatiCup2017/issues) dieses Repositories.
 
