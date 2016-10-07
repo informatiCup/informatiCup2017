@@ -56,6 +56,24 @@ You can participate if you are enrolled (PHD students are exempted) within a uni
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19118773/c4aed616-8b1d-11e6-8b08-0f16075c28e1.png)
 
+## Timeline / Zeitplan des Wettbewerbs 2017
+
+- November 1st: Starting to accept submissions (optional). You will get some feedback.
+- November 30th 2016: Deadline to register your team (by email, see [FAQ](https://github.com/InformatiCup/InformatiCup2017/issues))
+- January 15th 2017: Deadline for your submissions
+- March 6th to 10th 2017: BTW 2017 Stuttgart (expected) Final round informatiCup (3 to 5 selected teams)
+
+~
+
+-  01. November 2016: Beginn der Annahme von Lösungsentwürfen (optional). Sie erhalten ein Feedback.
+- 30. November 2016: Deadline für die Anmeldung der Teilnehmerteams (Anmeldung per E-Mail, siehe [FAQ](https://github.com/InformatiCup/InformatiCup2017/issues))
+- 15. Januar 2017: Ende der Annahme der vollständigen Lösung
+- 06.-10. März 2017: BTW 2017 Stuttgart (voraussichtlich) Finale informatiCup (3 bis 5 ausgewählte Teams)
+
+![image](https://cloud.githubusercontent.com/assets/1872314/19183660/a90e3f84-8c79-11e6-9047-b13c02a3290d.png)
+
+
+
 ## FAQ / Fragen
 
 If you should have any questions or like to see why questions have already been answered have a look at [the issues](https://github.com/InformatiCup/InformatiCup2017/issues) of this repository.
