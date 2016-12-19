@@ -9,7 +9,7 @@ Please be aware that the jury might have classified some results in the sample d
 # Sample files
 
 - [WEB examples](WEB.txt)
-- [HW examples](WEB.txt)
+- [HW examples](HW.txt)
 - [EDU examples](EDU.txt)
 - [OTHER examples](OTHER.txt)
 - [DOCS examples](DOCS.txt)
