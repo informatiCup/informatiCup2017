@@ -66,7 +66,7 @@ You can participate if you are enrolled (PHD students are exempted) within a uni
 
 ~
 
-- 01.11. r 2016: Beginn der Annahme von Lösungsentwürfen (optional). Sie erhalten ein Feedback.
+- 01.11. 2016: Beginn der Annahme von Lösungsentwürfen (optional). Sie erhalten ein Feedback.
 - 30.11. 2016: Deadline für die Anmeldung der Teilnehmerteams (Anmeldung per E-Mail, siehe [FAQ](https://github.com/InformatiCup/InformatiCup2017/issues))
 - 15.01. 2017: Ende der Annahme der vollständigen Lösung
 - 07.03. 2017: [BTW 2017 Stuttgart](http://btw2017.informatik.uni-stuttgart.de/) Finale informatiCup (3 bis 5 ausgewählte Teams)
