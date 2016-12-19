@@ -53,6 +53,7 @@ You can participate if you are enrolled (PHD students are exempted) within a uni
 * [Example Output / Beispielausgabe](example-output)
 * [Appendix A / Anhang A](appendix-a-examples-for-repository-categories)
 * [Appendix B / Anhang B](appendix-b-repositories)
+* [NEW: Additional data sets](additional_data_sets)
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19118773/c4aed616-8b1d-11e6-8b08-0f16075c28e1.png)
 
