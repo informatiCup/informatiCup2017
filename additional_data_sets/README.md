@@ -23,4 +23,6 @@ Please be aware that the jury might have classified some results in the sample d
 
 If you like these examples and think it only would be fair if you provided some by yourself, feel free to open a pull request for this repository.
 
-:octocat: :heart:
+# Merry Christmas and Happy New Year to all participants
+
+![](seasons-greetings.png)
