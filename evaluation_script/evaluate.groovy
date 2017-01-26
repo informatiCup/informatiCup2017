@@ -38,6 +38,9 @@ def printCSVHeader() {
 }
 
 def precision (golden, evaluated) {
+  if (evaluated.size() == 0) {
+    return 1
+  }
   return golden.intersect(evaluated).size() / evaluated.size()
 }
 
