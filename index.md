@@ -2,7 +2,7 @@
 
 # informatiCup2017 - GitHub Repository Classifier
 
-## :tada: [Results are out / Die finalen Ergebnisse sind da](results/README.md) :tada:
+## [Results are out / Die finalen Ergebnisse sind da](results/)
 
 This year, the [German Association for Computer Science](https://en.gi.de/startpage.html) is hosting [informatiCup](http://www.informaticup.de) - a computer science competition for students - the twelfth time.
 
