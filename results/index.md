@@ -4,7 +4,7 @@
 
 The jury had a really hard time to pick 5 submissions out of the excellent solutions we received.
 At the final round on [March 8th in Stuttgart](http://btw2017.informatik.uni-stuttgart.de/?pageId=InformatiCup&language=de), the finalist all gave a presentation of their approach.
-All presentations have been :sparkles:, but we had to come up with a ranking so here we go:
+All presentations have been awesome, but we had to come up with a ranking so here we go:
 
 | Rank | University | Repo link                                                          | Presentation | GitHub handles                                  | Further remarks                                                                           |
 |------|------------|--------------------------------------------------------------------|--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
