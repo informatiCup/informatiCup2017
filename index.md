@@ -2,6 +2,8 @@
 
 # informatiCup2017 - GitHub Repository Classifier
 
+## :tada: [Results are out / Die finalen Ergebnisse sind da](results/README.md) :tada:
+
 This year, the [German Association for Computer Science](https://en.gi.de/startpage.html) is hosting [informatiCup](http://www.informaticup.de) - a computer science competition for students - the twelfth time.
 
 This year’s InformatiCup [challenge](InformatiCup2017-English.pdf) is dedicated to the new possibilities that arise based on the application of artificial intelligence and repository mining - based on the social coding platform GitHub.
@@ -66,10 +68,10 @@ You can participate if you are enrolled (PHD students are exempted) within a uni
 
 ~
 
-- 01.11. 2016: Beginn der Annahme von Lösungsentwürfen (optional). Sie erhalten ein Feedback.
-- 30.11. 2016: Deadline für die Anmeldung der Teilnehmerteams (Anmeldung per E-Mail, siehe [FAQ](https://github.com/InformatiCup/InformatiCup2017/issues))
-- 15.01. 2017: Ende der Annahme der vollständigen Lösung
-- 07.03. 2017: [BTW 2017 Stuttgart](http://btw2017.informatik.uni-stuttgart.de/) Finale informatiCup (3 bis 5 ausgewählte Teams)
+-  01. November 2016: Beginn der Annahme von Lösungsentwürfen (optional). Sie erhalten ein Feedback.
+- 30. November 2016: Deadline für die Anmeldung der Teilnehmerteams (Anmeldung per E-Mail, siehe [FAQ](https://github.com/InformatiCup/InformatiCup2017/issues))
+- 15. Januar 2017: Ende der Annahme der vollständigen Lösung
+- 7. März 2017: [BTW 2017 Stuttgart](http://btw2017.informatik.uni-stuttgart.de/) Finale informatiCup (3 bis 5 ausgewählte Teams)
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19183660/a90e3f84-8c79-11e6-9047-b13c02a3290d.png)
 
