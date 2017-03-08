@@ -8,10 +8,10 @@ All presentations have been :sparkles:, but we had to come up with a ranking so 
 
 | Rank | University | Repo link                                                          | Presentation | GitHub handles                                  | Further remarks                                                                           |
 |------|------------|--------------------------------------------------------------------|--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
-|:1st_place_medal:  | Augsburg   | [Github-Classifier](https://github.com/Ichaelus/Github-Classifier) |              | @Ichaelus, @DasNeuling, @Un4med, @platingandalf |                                                                                           |
-|:2nd_place_medal:  | Stuttgart  | [repo-classifier](https://github.com/linkvt/repo-classifier)       |              | @linkvt, @BlackDark, @jucnekpl                  |                                                                                           |
-|:3rd_place_medal:  | HPI        | [git_better](https://github.com/WGierke/git_better)                |              | @WGierke, @Baschdl, @bjrne                      | Check out [online-app](https://git-better.herokuapp.com/) to classify your personal repos |
-| 4    | Osnabrück  | [golden-lemurs](https://github.com/toludwig/golden-lemurs/)        |              | @fabrichter, @toludwig, @MSchuwalow             | :sparkles: best presentation award                                                        |
+| 1  | Augsburg   | [Github-Classifier](https://github.com/Ichaelus/Github-Classifier) |              | @Ichaelus, @DasNeuling, @Un4med, @platingandalf |                                                                                           |
+| 2  | Stuttgart  | [repo-classifier](https://github.com/linkvt/repo-classifier)       |              | @linkvt, @BlackDark, @jucnekpl                  |                                                                                           |
+| 3  | HPI        | [git_better](https://github.com/WGierke/git_better)                |              | @WGierke, @Baschdl, @bjrne                      | Check out [online-app](https://git-better.herokuapp.com/) to classify your personal repos |
+| 4    | Osnabrück  | [golden-lemurs](https://github.com/toludwig/golden-lemurs/)        |              | @fabrichter, @toludwig, @MSchuwalow             | best presentation award                                                        |
 | 5    | Hamburg    | [phinau](https://phinau.de/icup_transfer/)                         |              |                                                 |                                                                                           |
 
 
