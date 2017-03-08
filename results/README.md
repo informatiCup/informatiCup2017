@@ -20,12 +20,12 @@ Congratulations are in order!
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19119326/b43d4978-8b1f-11e6-9736-a31f92e75424.png)
 
-Feel free to add further information by creating a pull request.
+Feel free to add further information by [creating a pull request](https://github.com/InformatiCup/InformatiCup2017/edit/master/results/README.md).
 
 ## Runner up / honorable mentions
 
 GitHub likes to thank every participating team for their hard work and dedication :bow:.
-We like to give every team the opportunity to present / showcase their results on this page. Just open a pull request to add your team to the table.
+We like to give every team the opportunity to present / showcase their results on this page. Just [open a pull request](https://github.com/InformatiCup/InformatiCup2017/edit/master/results/README.md) to add your team to the table.
 
 | University | Repo link                                                          | Presentation | GitHub handles                                  | Further remarks                                                                           |
 |------------|--------------------------------------------------------------------|--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
