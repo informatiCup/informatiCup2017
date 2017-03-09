@@ -12,7 +12,7 @@ All presentations have been :sparkles:, but we had to come up with a ranking so 
 |:2nd_place_medal:  | Stuttgart  | [repo-classifier](https://github.com/linkvt/repo-classifier)       |              | @linkvt, @BlackDark, @jucnekpl                  |                                                                                           |
 |:3rd_place_medal:  | HPI        | [git_better](https://github.com/WGierke/git_better)                |              | @WGierke, @Baschdl, @bjrne                      | Check out [online-app](https://git-better.herokuapp.com/) to classify your personal repos |
 | 4    | Osnabrück  | [golden-lemurs](https://github.com/toludwig/golden-lemurs/)        |              | @fabrichter, @toludwig, @MSchuwalow             | :sparkles: best presentation award                                                        |
-| 5    | Hamburg    | [phinau](https://phinau.de/icup_transfer/)                         |              |                                                 |                                                                                           |
+| 5    | Hamburg    | [ClassifyHub](https://github.com/Top-Ranger/ClassifyHub)                         |              | @Top-Ranger                                     |                                                                                           |
 
 
 
