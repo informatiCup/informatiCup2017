@@ -12,7 +12,7 @@ All presentations have been awesome, but we had to come up with a ranking so her
 | 2  | Stuttgart  | [repo-classifier](https://github.com/linkvt/repo-classifier)       |              | @linkvt, @BlackDark, @jucnekpl                  |                                                                                           |
 | 3  | HPI        | [git_better](https://github.com/WGierke/git_better)                |              | @WGierke, @Baschdl, @bjrne                      | Check out [online-app](https://git-better.herokuapp.com/) to classify your personal repos |
 | 4    | Osnabrück  | [golden-lemurs](https://github.com/toludwig/golden-lemurs/)        |              | @fabrichter, @toludwig, @MSchuwalow             | best presentation award                                                        |
-| 5    | Hamburg    | [phinau](https://phinau.de/icup_transfer/)                         |              |                                                 |                                                                                           |
+| 5    | Hamburg    | [ClassifyHub](https://github.com/Top-Ranger/ClassifyHub)                         |              | @Top-Ranger                                     |                                                                                           |
 
 
 
