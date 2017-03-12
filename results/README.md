@@ -29,4 +29,4 @@ We like to give every team the opportunity to present / showcase their results o
 
 | University | Repo link                                                          | Presentation | GitHub handles                                  | Further remarks                                                                           |
 |------------|--------------------------------------------------------------------|--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
-|            |                                                                    |              |                                                 |                                                                                           |
+| TU Berlin           | [GitHub Repository Classifier](https://github.com/FelixNeutatz/GitHubRepositoryClassifier)                                                                    |              | @FelixNeutatz, @kevinkepp                                               |                                                                                           |
