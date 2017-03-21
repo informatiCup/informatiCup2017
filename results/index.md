@@ -4,14 +4,14 @@
 
 The jury had a really hard time to pick 5 submissions out of the excellent solutions we received.
 At the final round on [March 8th in Stuttgart](http://btw2017.informatik.uni-stuttgart.de/?pageId=InformatiCup&language=de), the finalist all gave a presentation of their approach.
-All presentations have been awesome, but we had to come up with a ranking so here we go:
+All presentations have been :sparkles:, but we had to come up with a ranking so here we go:
 
 | Rank | University | Repo link                                                          | Presentation | GitHub handles                                  | Further remarks                                                                           |
 |------|------------|--------------------------------------------------------------------|--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
-| 1  | Augsburg   | [Github-Classifier](https://github.com/Ichaelus/Github-Classifier) |              | @Ichaelus, @DasNeuling, @Un4med, @platingandalf |                                                                                           |
-| 2  | Stuttgart  | [repo-classifier](https://github.com/linkvt/repo-classifier)       |              | @linkvt, @BlackDark, @jucnekpl                  |                                                                                           |
-| 3  | HPI        | [git_better](https://github.com/WGierke/git_better)                |              | @WGierke, @Baschdl, @bjrne                      | Check out [online-app](https://git-better.herokuapp.com/) to classify your personal repos |
-| 4    | Osnabrück  | [golden-lemurs](https://github.com/toludwig/golden-lemurs/)        |              | @fabrichter, @toludwig, @MSchuwalow             | best presentation award                                                        |
+|1  | Augsburg   | [Github-Classifier](https://github.com/Ichaelus/Github-Classifier) |[Presentation](https://github.com/Ichaelus/Github-Classifier/blob/master/InformatiCup%20Finale%20Stuttgart%20-%20Pr%C3%A4sentation.pptx?raw=true)| @Ichaelus, @DasNeuling, @Un4med, @platingandalf | Have a look at our [Documentation](https://github.com/Ichaelus/Github-Classifier/blob/master/Documentation.pdf) if you're interested!                                                                               |
+|2  | Stuttgart  | [repo-classifier](https://github.com/linkvt/repo-classifier)       |[Presentation](https://github.com/linkvt/repo-classifier/blob/master/informatiCup_presentation.pptx)| @linkvt, @BlackDark, @kuznecpl                  |                                                                                           |
+|3  | HPI        | [git_better](https://github.com/WGierke/git_better)                | [Presentation](https://drive.google.com/open?id=0B9hxiOQJoOFicnc3dGNIOUVHWGM) | @WGierke, @Baschdl, @bjrne                      | Check out [online-app](https://git-better.herokuapp.com/) to classify your personal repos |
+| 4    | Osnabrück  | [golden-lemurs](https://github.com/toludwig/golden-lemurs/)        | [Presentation](http://slides.com/fabianrichter/deck#/) | @fabrichter, @toludwig, @MSchuwalow             | best presentation award                                                        |
 | 5    | Hamburg    | [ClassifyHub](https://github.com/Top-Ranger/ClassifyHub)                         |              | @Top-Ranger                                     |                                                                                           |
 
 
@@ -29,4 +29,4 @@ We like to give every team the opportunity to present / showcase their results o
 
 | University | Repo link                                                          | Presentation | GitHub handles                                  | Further remarks                                                                           |
 |------------|--------------------------------------------------------------------|--------------|-------------------------------------------------|-------------------------------------------------------------------------------------------|
-|            |                                                                    |              |                                                 |                                                                                           |
+| TU Berlin           | [GitHub Repository Classifier](https://github.com/FelixNeutatz/GitHubRepositoryClassifier)                                                                    |              | @FelixNeutatz, @kevinkepp                                               |                                                                                           |
