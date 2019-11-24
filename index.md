@@ -87,3 +87,12 @@ If you should have any questions or like to see why questions have already been 
 Sollten Sie Fragen zum Wettbewerb haben, oder die bereits beantworteten Fragen einsehen, nutzen Sie bitte die [Issue-Funktion](https://github.com/InformatiCup/InformatiCup2017/issues) dieses Repositories.
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19119143/16a67f04-8b1f-11e6-8b47-0d3510eae0b8.png)
+
+
+## Next year's challenge / Nächster InformatiCup
+
+The next InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2018).
+
+~
+
+Der nächste InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2018) gehostet.
