@@ -88,10 +88,10 @@ Sollten Sie Fragen zum Wettbewerb haben, oder die bereits beantworteten Fragen e
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19119143/16a67f04-8b1f-11e6-8b47-0d3510eae0b8.png)
 
-## Next year's challenge / Nächster InformatiCup
+## Most recent InformatiCup / aktueller InformatiCup
 
-The next InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2018).
+The current InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2020).
 
 ~
 
-Der nächste InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2018) gehostet.
+Der aktuelle InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2020) gehostet.
