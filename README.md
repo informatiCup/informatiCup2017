@@ -4,13 +4,13 @@
 
 ## :tada: [Results are out / Die finalen Ergebnisse sind da](results/README.md) :tada:
 
-This year, the [German Association for Computer Science](https://en.gi.de/startpage.html) is hosting [informatiCup](http://www.informaticup.de) - a computer science competition for students - the twelfth time.
+This year, the [German Association for Computer Science](https://en.gi.de/startpage.html) is hosting [informatiCup](https://informaticup.github.io/) - a computer science competition for students - the twelfth time.
 
 This year’s InformatiCup [challenge](InformatiCup2017-English.pdf) is dedicated to the new possibilities that arise based on the application of artificial intelligence and repository mining - based on the social coding platform GitHub.
 
 ~
 
-Die [Gesellschaft für Informatik](https://www.gi.de) richtet in diesem Jahr zum zwölften Mal den [informatiCup](http://www.informaticup.de) – einen Informatikwettbewerb für Studierende – aus.
+Die [Gesellschaft für Informatik](https://www.gi.de) richtet in diesem Jahr zum zwölften Mal den [informatiCup](https://informaticup.github.io/) – einen Informatikwettbewerb für Studierende – aus.
 
 Den neuen Möglichkeiten der Anwendung künstlicher Intelligenz und automatischer Empfehlungsdienste im Bereich der Softwareentwicklung widmet sich der InformatiCup 2017 mit der [Aufgabe der automatischen Klassifizierung von Repositories](InformatiCup2017.pdf) auf der kollaborativen Entwicklungsplattform GitHub.
 
