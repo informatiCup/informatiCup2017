@@ -1,3 +1,12 @@
+## Most recent InformatiCup / aktueller InformatiCup
+
+The current InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2021).
+
+~
+
+Der aktuelle InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2021) gehostet.
+
+
 ![image](https://cloud.githubusercontent.com/assets/1872314/19116242/0b21b234-8b15-11e6-9a0d-fdb82983fb17.png)
 
 # informatiCup2017 - GitHub Repository Classifier
@@ -87,11 +96,3 @@ If you should have any questions or like to see why questions have already been 
 Sollten Sie Fragen zum Wettbewerb haben, oder die bereits beantworteten Fragen einsehen, nutzen Sie bitte die [Issue-Funktion](https://github.com/InformatiCup/InformatiCup2017/issues) dieses Repositories.
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19119143/16a67f04-8b1f-11e6-8b47-0d3510eae0b8.png)
-
-## Most recent InformatiCup / aktueller InformatiCup
-
-The current InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2020).
-
-~
-
-Der aktuelle InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2020) gehostet.
